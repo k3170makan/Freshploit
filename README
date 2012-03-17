@@ -1,0 +1,16 @@
+.::Freshploit::.
+
+A simple python script that brings the vulnerability reports (from 1337day) right to your command line
+
+Installation:
+All you need to do is make sure you have the dependencies installed, and then simply run the script
+
+Advice:
+This script is most effective when run from your .bashrc file ;)
+
+Further Development:
+I plan to combined results from exploit-db , vulnerability-lab and other such vulnerability reporting site soon
+
+Contact:
+Twitter K3170makan
+Web k3170makan.blogspot.com (I may write a lil post about these recent projects soon)
